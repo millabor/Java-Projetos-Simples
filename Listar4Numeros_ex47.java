@@ -1,3 +1,5 @@
+/* Usuário deve informar 4 números e, COM SCANNER, leia o valor e coloque seus 4 dígitos separadamente */
+
 import java.util.Scanner;
 public class Listar4Numeros_ex47 {
     public static void main(String[] args){ 
