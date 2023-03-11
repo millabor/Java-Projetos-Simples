@@ -1,3 +1,5 @@
+/* Usuário atribui um valor e o valor do desconto, recebendo o preço final do produto menos o desconto */
+
 import javax.swing.JOptionPane;
 public class ProdutoEDesconto_ex2 {
     public static void main(String[] args){
